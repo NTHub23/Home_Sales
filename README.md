@@ -21,16 +21,16 @@ As an example, I generated a table with two columns, one of which contained the 
 ![image](https://github.com/NTHub23/Home_Sales/assets/138403390/4dbe73a9-5c70-4947-aff6-d7586b5d1efc)
 
 4. What is the "view" rating for the average price of a home, rounded to two decimal places, where the homes are greater than or equal to $350,000? Although this is a small dataset, determine the run time for this query.
-5. 
+ 
 ![image](https://github.com/NTHub23/Home_Sales/assets/138403390/053db0fa-25e9-4b1c-b541-1c4a3f57e8c8)
 
 
-5.Using the cached data, run the query that filters out the view ratings with average price greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
+5. Using the cached data, run the query that filters out the view ratings with average price greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
 
 ![image](https://github.com/NTHub23/Home_Sales/assets/138403390/e3d0e585-8af1-4006-9522-378609f545bd)
 
 6. Run the query that filters out the view ratings with average price of greater than or equal to $350,000 with the parquet DataFrame. Round your average to two decimal places. Determine the runtime and compare it to the cached version.
-7. 
+ 
 ![image](https://github.com/NTHub23/Home_Sales/assets/138403390/ef00b450-36fb-45ae-8aee-4b75fb615652)
 
 
